@@ -1,0 +1,17 @@
+{
+  "name": "firebase-firestore-101",
+  "homepage": "https://github.com/markxp/firebase-firestore-101",
+  "authors": [
+    "Bo-Yan Cheng <markxp2002@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
